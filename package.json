@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "easymidi": "^2.0.1",
+    "tonal-midi": "^0.69.7"
+  }
+}
